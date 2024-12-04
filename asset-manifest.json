@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dartsos-front/static/css/main.d1c12bf1.css",
+    "main.js": "/dartsos-front/static/js/main.87bb16f3.js",
+    "static/media/bootstrap-icons.woff?": "/dartsos-front/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/dartsos-front/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "index.html": "/dartsos-front/index.html",
+    "main.d1c12bf1.css.map": "/dartsos-front/static/css/main.d1c12bf1.css.map",
+    "main.87bb16f3.js.map": "/dartsos-front/static/js/main.87bb16f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1c12bf1.css",
+    "static/js/main.87bb16f3.js"
+  ]
+}
